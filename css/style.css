@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+.claseTitulo{
+    color: blue;
+}
+
+.claseFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.claseContenedorleft{
+    background-color: coral;
+    width: 50%;
+    text-align: center;
+    
+}
+
+.claseContenedorRight{
+    background-color: coral;
+    width: 50%;
+    text-align: center;
+    
+}
+
+#identificador{
+    color: green;
+}
+
+.claseMenuNavegacion{
+    color: white;
+    font-weight: bold;
+}
